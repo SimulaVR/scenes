@@ -1,0 +1,15 @@
+[submodule "Room"]
+	path = Room
+	url = https://github.com/SimulaVR/Room.git
+[submodule "Water_Temple_Godot-Demo"]
+	path = Water_Temple_Godot-Demo
+	url = https://github.com/SimulaVR/Water_Temple_Godot-Demo.git
+[submodule "WaterwaysDemo"]
+	path = WaterwaysDemo
+	url = https://github.com/SimulaVR/WaterwaysDemo.git
+[submodule "godot-sponza"]
+	path = godot-sponza
+	url = https://github.com/SimulaVR/godot-sponza.git
+[submodule "godot_hterrain_demo"]
+	path = godot_hterrain_demo
+	url = https://github.com/SimulaVR/godot_hterrain_demo.git
