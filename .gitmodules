@@ -13,3 +13,6 @@
 [submodule "godot_hterrain_demo"]
 	path = godot_hterrain_demo
 	url = https://github.com/SimulaVR/godot_hterrain_demo.git
+[submodule "Godot-Water-Shader-Prototype"]
+	path = Godot-Water-Shader-Prototype
+	url = https://github.com/SimulaVR/Godot-Water-Shader-Prototype.git
