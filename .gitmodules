@@ -16,3 +16,6 @@
 [submodule "Godot-Water-Shader-Prototype"]
 	path = Godot-Water-Shader-Prototype
 	url = https://github.com/SimulaVR/Godot-Water-Shader-Prototype.git
+[submodule "Godot-Open-World-Demo"]
+	path = Godot-Open-World-Demo
+	url = https://github.com/SimulaVR/Godot-Open-World-Demo.git
